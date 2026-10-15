@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2b2626b32d576c90daeaaeb4",
+  "owner": "gbetgyv",
+  "repo": "page-ba651448b5c6e36910cd8ff8",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ba651448b5c6e36910cd8ff8",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1da8aaaf1a1b0e51fb6552e03b2312ac04950827047a881a38e789c7ed8e3cd8",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id介绍机场订阅、VPN 梯子网络加速与客户端配置流程，说明基础版、旗舰版和团队版的设备与流量差异，并提示官网下载前应核对客户端来源。",
+          "AI_DESCRIPTION": "小火箭id介绍机场订阅、VPN 梯子网络加速与客户端配置流程，说明基础版、旗舰版和团队版的设备与流量差异，并提示官网下载前应核对客户端来源。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<style>\n* { box-sizing: border-box; }\nhtml, body { margin: 0; padding: 0; }\nbody { font-family: sans-serif; background: #07182c; color: #e9f6ff; font-size: 17px; line-height: 1.75; }\n.wrap { width: min(920px, calc(100% - 32px)); margin: 0 auto; }\nheader, footer { background: #04101c; }\nheader { padding: 16px 0; border-bottom: 1px solid #1c4d72; }\nnav ul { list-style: none; padding: 0; margin: 8px 0 0; display: flex; flex-wrap: wrap; gap: 8px 14px; }\na { color: #7eebf5; }\nh1 { font-size: 2rem; line-height: 1.3; margin: 18px 0 10px; }\nh2 { font-size: 1.45rem; line-height: 1.35; margin: 0 0 10px; }\nh3 { font-size: 1.12rem; line-height: 1.4; margin: 0 0 8px; color: #8df3fb; }\np, li { overflow-wrap: anywhere; }\nsection { margin: 28px 0; }\n.lead, .card, .step, .plan, details { background: #0e2a4a; border: 1px solid #1c4d72; border-radius: 12px; padding: 16px; margin: 12px 0; }\n.step-no { display: inline-block; min-width: 1.8rem; margin-right: 8px; padding: 0 8px; border-radius: 999px; background: #3ee0f0; color: #04202a; font-weight: 700; text-align: center; }\n.plan.featured { border-color: #3ee0f0; }\n.badge { display: inline-block; margin-bottom: 8px; padding: 2px 8px; border-radius: 999px; background: #3ee0f0; color: #04202a; font-size: 0.92rem; font-weight: 700; }\n.price { font-size: 1.4rem; font-weight: 700; margin: 6px 0; }\nul { margin: 8px 0 0; padding-left: 1.2rem; }\n.faq { background: #082033; border-top: 1px solid #1c4d72; border-bottom: 1px solid #1c4d72; padding: 8px 0 24px; }\ndetails summary { font-weight: 700; font-size: 1.08rem; cursor: pointer; }\nfooter { padding: 20px 0 28px; color: #b7d4e8; }\n</style>\n\n\n<header>\n<div class=\"wrap\">\n<strong>小火箭id</strong>\n<nav aria-label=\"页面导航\">\n<ul>\n<li><a href=\"#about\">品牌简介</a></li>\n<li><a href=\"#scenes\">使用场景</a></li>\n<li><a href=\"#steps\">操作说明</a></li>\n<li><a href=\"#plans\">套餐</a></li>\n<li><a href=\"#download\">客户端下载</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n</div>\n</header>\n<main class=\"wrap\">\n<h1>小火箭id</h1>\n<p class=\"lead\">小火箭id把机场订阅、VPN 网络加速和客户端配置放在同一套说明里。页面依据可核对的套餐内容，解释流量、同时在线设备和线路类型，方便在官网下载客户端之前先判断自己需要哪一档。</p>\n<section id=\"about\">\n<h2>品牌简介</h2>\n<p>小火箭id是面向订阅制网络加速的服务说明品牌。它关注三件事：如何选择机场订阅、如何把订阅导入常用客户端，以及不同套餐在流量和设备数量上的差别。小火箭id VPN 不等于某一个应用商店里的同名工具；安装任何加速器客户端时，都应以商店页面显示的开发者和权限说明为准。</p>\n<p>订阅提供的是节点与流量额度，客户端负责导入配置、选择线路和查看连通情况。基础版对应普通线路节点池，旗舰版在套餐描述中包含全节点原生流媒体解锁、IPLC 专线游戏加速优化和优先工单，团队版则面向更多设备和更高流量额度。没有单独的实测速度、在线率或用户评价数据时，本页不把这些项目写成既定事实。</p>\n</section>\n<section id=\"scenes\">\n<h2>使用场景</h2>\n<article class=\"card\">\n<h3>远程协作与资料查阅</h3>\n<p>需要访问境外办公站点、代码托管或课程平台时，可先确认目标网站是否允许所在地区访问，再使用小火箭id机场订阅中的线路。建议优先完成账号登录和权限检查，避免把加速器当成绕过付费、版权或机构访问控制的手段。</p>\n</article>\n<article class=\"card\">\n<h3>流媒体与一般网页</h3>\n<p>旗舰版的套餐说明写明全节点原生流媒体解锁。实际能否播放仍取决于片源地区策略、账号归属和当时线路状态。若只是浏览普通网页，基础版的每月 100GB 与 3 台设备可能已经够用。</p>\n</article>\n<article class=\"card\">\n<h3>出行与多人共用</h3>\n<p>短途出行适合在出发前于可信任网络中完成客户端下载和订阅导入。家庭或小组共用时应数清设备数量：基础版 3 台、旗舰版 5 台、团队版 20 台。超过上限时需要调整套餐，而不是共享无法追溯的账号。</p>\n</article>\n</section>\n<section id=\"steps\">\n<h2>操作说明</h2>\n<p>下面按纵向顺序说明从选购到日常切换。每一步都可以单独回看，不依赖外部页面。</p>\n<article class=\"step\">\n<h3><span class=\"step-no\">1</span>确认套餐额度</h3>\n<p>先看每月流量、同时在线设备和线路描述。按月价格分别是基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；对应年付说明为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。年付是否可退、何时重置流量，以购买页当时的订单条款为准。</p>\n</article>\n<article class=\"step\">\n<h3><span class=\"step-no\">2</span>取得订阅信息</h3>\n<p>完成订购后，在账户页面复制订阅链接，或按提示手动记录节点参数。订阅地址相当于访问凭证，不要发到公开群组、截图评论区或不可信的第三方转换工具。</p>\n</article>\n<article class=\"step\">\n<h3><span class=\"step-no\">3</span>在客户端导入</h3>\n<p>打开已经核对来源的客户端，使用订阅或手动添加功能导入。导入后先看配置名称、更新时间和节点列表是否与所购套餐一致，再保存。不要同时启用多个来源不明的规则集。</p>\n</article>\n<article class=\"step\">\n<h3><span class=\"step-no\">4</span>选择线路并检查</h3>\n<p>从节点列表选择一条线路，访问一个你本来就有权打开的网页，确认可以加载且账户仍处于正常登录状态。若只是某一站点打不开，先切换节点并核对本地网络，再查看流量是否用尽。</p>\n</article>\n<article class=\"step\">\n<h3><span class=\"step-no\">5</span>按场景保留可用配置</h3>\n<p>日常可保留一个常用节点，并在流媒体、游戏或普通浏览之间按套餐能力切换。旗舰版提到 IPLC 专线游戏加速优化，这是套餐功能描述，不代表所有游戏服务器都会降低延迟。更换设备时先在旧设备退出，以免占满在线名额。</p>\n</article>\n</section>\n<section id=\"plans\">\n<h2>套餐与机场订阅</h2>\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<h3>旗舰版</h3>\n<p class=\"badge\">套餐页主推</p>\n<p class=\"price\">¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</section>\n<section id=\"download\">\n<h2>客户端下载与官网入口</h2>\n<p>小火箭id官网下载指的是在本页了解配置顺序后，再前往你的设备自带应用商店搜索客户端。下载前核对应用名称、开发者、版本和权限。本页所有入口都停留在页内锚点，不提供外部跳转地址，因此这里没有单独的安装包直链。</p>\n<p>若商店中的工具名称与小火箭id相近，不要仅凭简称判断它属于本服务。能导入订阅、查看节点和切换线路，通常就满足小火箭id VPN 的使用流程。企业定制路由和客户经理仅出现在团队版说明中，购买前应先确认组织是否允许员工自行安装网络工具。</p>\n<p><a href=\"#steps\">返回操作说明</a> · <a href=\"#plans\">查看三档订阅</a> · <a href=\"#faq\">阅读常见问题</a></p>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<section class=\"faq\" id=\"faq\">\n<div class=\"wrap\">\n<h2>常见问题</h2>\n<details>\n<summary>小火箭id和客户端是什么关系？</summary>\n<p>小火箭id负责说明机场订阅、套餐额度和导入顺序；客户端是安装在手机或电脑上的加速器程序。没有客户端时，订阅链接本身不会自动完成连线。安装客户端时应使用应用商店来源，并核对开发者信息。</p>\n</details>\n<details>\n<summary>机场订阅到期或流量用完后还能用吗？</summary>\n<p>流量额度按套餐重置或到期后的处理方式，以订单条款为准。额度用尽时，客户端可能无法继续通过对应线路访问。可以等待周期刷新，或在账户内更换更高流量的旗舰版、团队版。不要购买来路不明的补充流量码。</p>\n</details>\n<details>\n<summary>旗舰版相比基础版多了哪些内容？</summary>\n<p>基础版是每月 100GB、3 台设备、基础流媒体和普通线路节点池。旗舰版是每月 300GB、5 台设备，并在套餐中写明全节点原生流媒体解锁、IPLC 专线游戏加速优化和 7x24 优先工单。两者的年付说明分别是 ¥150/年与 ¥350/年。</p>\n</details>\n<details>\n<summary>团队版适合什么情况？</summary>\n<p>团队版提供每月 1000GB、20 台设备、VIP 专属高带宽节点、企业定制路由和专属客户经理。它适合需要统一管理较多设备的小组。若只是个人使用，基础版或旗舰版通常更容易对应实际设备数。</p>\n</details>\n<details>\n<summary>为什么官网不直接给出外部下载地址？</summary>\n<p>为避免把用户送到无法在本页核对的文件，小火箭id只保留页内说明。请在设备官方应用商店搜索并确认开发者、权限和更新记录后再安装。任何要求提供短信验证码、支付密码或远程控制权限的下载引导都不应继续。</p>\n</details>\n<details>\n<summary>导入后打不开目标网站怎么办？</summary>\n<p>先确认本地网络正常、订阅未过期、流量仍有剩余，然后更换一条同套餐节点再试。只保留一个正在使用的客户端配置，避免规则互相覆盖。若目标网站本身限制账号地区或需要单独登录，加速器不能代替网站自己的访问规则。</p>\n</details>\n</div>\n</section>\n<footer>\n<div class=\"wrap\">\n<p>小火箭id官方网站说明页只归纳订阅、加速场景和客户端配置。使用网络服务时请遵守所在地法律、学校或单位的网络制度，以及目标网站的服务条款。</p>\n<p><a href=\"#about\">简介</a> · <a href=\"#download\">下载说明</a> · <a href=\"#faq\">常见问题</a></p>\n</div>\n</footer>\n\n",
+          "hash": "22decfaecc5dc114116415f6faf8dbfa2d77e0f6c54f99e9800dcde8231fb88f",
+          "seo": {
+            "title": "小火箭id官网｜机场订阅与 VPN 加速器客户端下载",
+            "keywords": "小火箭id,小火箭id机场,小火箭id VPN,机场订阅,网络加速,加速器,客户端下载,官网下载",
+            "description": "小火箭id介绍机场订阅、VPN 梯子网络加速与客户端配置流程，说明基础版、旗舰版和团队版的设备与流量差异，并提示官网下载前应核对客户端来源。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uoaygmc.cn",
+    "host": "p-78bd45536d.uoaygmc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b9055ca93f58ebb9073865c6a01281419acd31e63f9b465b0b5b9c249be64cad",
+    "sitemap.xml": "1dab2448478093b924454b256abfcb8cfcf75eed6c4223b8ab915003b366bc41",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "55a65bdb03e115e537b59210de77f2f7a870f8a4962fed5adfabfcb355d19df7",
+    "robots.txt": "780c123fd78b98d93c51e5f58165e7497083fcb720e903298e575feb4585adb3",
+    "ac45a89509a493fccd5cc050bf5691ac.txt": "7c1dd8f016814715883c6d20654658246d61309c45e57a8af7f25a386d96cbd2"
+  },
+  "revision": "60b0df01e4e653317934688f0ec42c6534fa74b1fa03d279b31826cd8f2f56bd"
+}
